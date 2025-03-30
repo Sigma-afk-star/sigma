@@ -23,12 +23,12 @@
 .theme-light {
   --rgb-highlight: 255, 166, 255; /* The main highlight color */
   --rgb-background: 255, 166, 124; /* The main background color */
-  --rgb-text: 197, 200, 198; /* The main text color */
+  --rgb-text: 255, 166, 255; /* The main text color */
   --rgb-close-button: 212, 18, 39; /* The main "close this" or "deny" color */
   --rgb-online-color: 57, 255, 20; /* The color used in the "online" user status symbol */
-  --rgb-afk-color: 255, 255, 51; /* The color used in the "idle" user status symbol */
+  --rgb-afk-color: 255, 166, 255; /* The color used in the "idle" user status symbol */
   --rgb-dnd-color: 255, 0, 0; /* The color used in the "do not disturb" user status symbol */
-  --rgb-streaming-color: 188, 19, 254; /* The color used in the "streaming X" user status symbol */
+  --rgb-streaming-color: 255, 166, 255; /* The color used in the "streaming X" user status symbol */
 
   --transition-time: .3s; /* How fast animations added by the theme happen. Default is 0.3 seconds */
 
